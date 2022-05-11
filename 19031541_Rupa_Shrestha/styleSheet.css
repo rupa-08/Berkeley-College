@@ -1,0 +1,32 @@
+﻿
+
+.navbar {
+    border-color: transparent;
+    background-color:navy;
+    text-decoration: wavy;
+    display: block;
+    font-family: palatino-semi-bold;
+    font-size: 15pt;
+    padding-left: 100px;
+    margin-bottom: 0px !important;
+}
+
+
+.container {
+    font-family: Nirmala UI Semilight;
+    align-content: center;
+    vertical-align: central;
+    font-size: 20px;
+    
+}
+
+
+.btn {
+    float: right;
+    background-color: #2774AE;
+    margin-top: 10px;
+    font-family: palatino;
+    font-size: 19px;
+    text-align: center;
+    align-content: baseline;
+}
